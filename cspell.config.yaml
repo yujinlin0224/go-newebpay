@@ -1,0 +1,26 @@
+version: 0.2
+language: en
+words:
+  - AESCBCPKCS
+  - AESGCM
+  - Alipay
+  - ANDROIDPAY
+  - CVSCOM
+  - datetime
+  - ESUNWALLET
+  - EZPALIPAY
+  - EZPAY
+  - EZPWECHAT
+  - HNCB
+  - LINEPAY
+  - newebpay
+  - NTCB
+  - oneof
+  - querystring
+  - SAMSUNGPAY
+  - TAIWANPAY
+  - UNIONPAY
+  - VACC
+  - WEBATM
+  - yujinlin
+  - ZHTW
